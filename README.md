@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Berkay Çatal
-- 👀 I’m interested in Manim, Math, Software
-- 🌱 I’m currently learning Java and Manim
-- 💞️ I’m studying at Bilkent University Department of Mathematics
+- 👋 Hi, I’m Berkay Çatal.
+- 👀 I’m interested in Manim, Math, Software.
+- 🌱 I’m currently learning Java and Manim.
+- 💞️ I’m studying at Bilkent University Department of Mathematics.
 - 📫 How to reach me: You can send mail to brkyctl19@gmail.com
 
 <!---
